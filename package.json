@@ -1,0 +1,19 @@
+{
+  "name": "eventsjs-meetup-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for upcoming meetups at meetup.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EventsJS",
+    "Meetup",
+    "JavaScript"
+  ],
+  "author": "Peter Müller <peter@baggers.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
