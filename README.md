@@ -24,5 +24,5 @@ node index.js
 Now you can access upcoming events via:
 
 ```
-http://your.host/:groupName/events
+http://your.host:3000/:groupName/events
 ```
